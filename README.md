@@ -24,3 +24,8 @@ A simple weather app made with Node.js and using OpenWeathermap API for weather 
 
 > **_NOTE:_** &nbsp; Make sure to include your api key for openweathermap and mapbox
 
+<p align="center">
+<kbd>
+<img src="https://github.com/muhammadhamzaazhar/weather-app/assets/101570938/563d0147-5973-42a1-a6f6-5342f5386e86" alt="Home Page">
+</kbd></p>
+
