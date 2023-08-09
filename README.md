@@ -22,5 +22,5 @@ A simple weather app made with Node.js and using OpenWeathermap API for weather 
 | &nbsp;&nbsp;`OpenWeather` | https://openweathermap.org/current |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Mailbox` | https://docs.mapbox.com/api/search/geocoding/ |
 
-> **_NOTE:_** &nbsp; Make sure to include you api key for openweathermap and mapbox
+> **_NOTE:_** &nbsp; Make sure to include your api key for openweathermap and mapbox
 
