@@ -15,12 +15,12 @@ A simple weather app made with Node.js and using OpenWeathermap API for weather 
 
 ## API Reference
 
-#### OpenWeathermap and Mailbox api Documentation
+#### OpenWeathermap and Mapbox api Documentation
 
 | Description | URL |
 | --- | --- |
 | &nbsp;&nbsp;`OpenWeather` | https://openweathermap.org/current |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Mailbox` | https://docs.mapbox.com/api/search/geocoding/ |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Mapbox` | https://docs.mapbox.com/api/search/geocoding/ |
 
 > **_NOTE:_** &nbsp; Make sure to include your api key for openweathermap and mapbox
 
